@@ -1,7 +1,6 @@
 import React from "react";
 import { CgWorkAlt } from "react-icons/cg";
 import { FaReact } from "react-icons/fa";
-import { LuGraduationCap } from "react-icons/lu";
 // 5
 import photometa from "@/public/photometa.png";
 import swapfry from "@/public/swapfry.png";
@@ -226,7 +225,12 @@ export const skillsData = [
   "Express",
   "Nginx",
   "PostgreSQL",
+  "Prisma",
   "Zustand",
   "Framer Motion",
   "Redux Toolkit",
+  "Docker",
+  "Podman",
+  "Aws",
+  "Rust",
 ] as const;
